@@ -31,15 +31,6 @@ Before you begin, ensure you have met the following requirements:
 
 To run **EduWeb** locally, run this command on your git bash:
 
-Linux and macOS:
-
-
-
-Windows:
-
-```bash
-git clone https://github.com/codewithsadee/eduweb.git
-```
 
 ### Contact
 
